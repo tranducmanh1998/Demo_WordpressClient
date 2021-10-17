@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Wordpress</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Ducmanh198</string>
+    <string name="nav_header_subtitle">Ducmanh198@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_post">Post</string>
+    <string name="text1">Digital user experience determines competitive opportunities
+
+The BFSI sector (Banking, financial services and insurance) was one of the most impacted industries during the pandemic. Employees working at banks and many contact centre employees working for other financial companies play a key role in ensuring secure and seamless customer experience. But COVID-19 changed this. According to a Mastercard study from November 2020, almost one in three Germans have increased their use of online banking or apps to make payments since the pandemic began. More than half are considering switching to a digital bank. Loyalty to trusted house banks is steadily declining.</string>
+    <string name="text2">Hybrid network infrastructure driving the agility
+
+Hybrid network can enable banks to leverage the combination of private WAN and VPN to connect their different branches. With many employees now working remotely, this also addresses their need to access the company’s network and applications from anywhere. Due to high compliance requirements, financial companies have so far been reluctant to use such network infrastructures. Yet network transformation can increase security by allowing a network to be managed centrally. </string>
+    <string name="text3"> Integrated functions increase security
+
+Hybrid network infrastructures and cloud connect solutions also allow integration of additional security features such as Zero Trust. With Zero Trust, all devices are per se classified as untrusted, regardless of whether they are inside or outside the corporate network. SD-WAN, for example, also has built-in firewalls and network segmentation capabilities. A central controller standardises and automates the distribution of patches across the network, saving time and money.</string>
+    <string name="reader">Reader</string>
+    <string name="my_site">My site</string>
+    <string name="notifications">Notifications</string>
+    <string name="application">Application</string>
+    <string name="settings">Settings</string>
+    <string name="exit">Exit</string>
+
+</resources>
